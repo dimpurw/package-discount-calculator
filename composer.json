@@ -10,8 +10,10 @@
   ],
   "autoload": {
     "psr-4": {
-      "Dimpurw\\DiscountCalculator\\": "src/"
+      "Dimpurw\\Discount\\": "src/"
     }
   },
-  "require": {}
+  "require": {
+    "phpunit/phpunit": "^9.6"
+  }
 }
