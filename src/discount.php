@@ -1,6 +1,6 @@
 <?php
 
-namespace DiscountCalculator;
+namespace Dimpurw\Discount;
 
 class Discount
 {
