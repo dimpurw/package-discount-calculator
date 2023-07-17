@@ -1,0 +1,17 @@
+{
+  "name": "dimpurw/package-discount-calculator",
+  "description": "Simple package discount calculator",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dimas pratama purwadinata",
+      "email": "dimas504kjbr@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Dimpurw\\DiscountCalculator\\": "src/"
+    }
+  },
+  "require": {}
+}
