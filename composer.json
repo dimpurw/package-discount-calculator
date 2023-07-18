@@ -13,7 +13,7 @@
       "Dimpurw\\Discount\\": "src/"
     }
   },
-  "require": {
-    "phpunit/phpunit": "^9.6"
+  "require-dev": {
+    "phpunit/phpunit": "^10.2"
   }
 }
