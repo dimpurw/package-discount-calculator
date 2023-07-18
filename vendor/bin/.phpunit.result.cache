@@ -1,1 +1,0 @@
-{"version":1,"defects":{"Dimpurw\\DiscountCalculator\\DiscountTest::testClassConstructor":4,"DiscountTest::testClassConstructor":3},"times":{"Dimpurw\\DiscountCalculator\\DiscountTest::testClassConstructor":0.009,"DiscountTest::testClassConstructor":0.109,"DiscountTest::testWith50Percent":0.015,"DiscountTest::testWith80Percent":0,"DiscountTest::testWith10Percent":0}}
